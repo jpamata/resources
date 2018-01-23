@@ -4,3 +4,5 @@
 - [HOWTO do Linux kernel development - The Linux Kernel Archives](https://www.kernel.org/doc/html/v4.10/process/howto.html)
 - [Think OS: A Brief Introduction to Operating Systems](http://greenteapress.com/thinkos/)
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+## Reviewing C
