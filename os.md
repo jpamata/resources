@@ -10,3 +10,4 @@
 
 ## Reviewing C
 - [C Programming Boot Camp](https://www.gribblelab.org/CBootCamp/index.html)
+- [Aalto University MOOC on C programming](http://2016-aalto-c.mooc.fi/en/Module_1/index.html)
