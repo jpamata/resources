@@ -1,2 +1,3 @@
 - [BrokenThorn - Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 - [The little book about OS development](https://littleosbook.github.io)
+- [MIT 6.828 Operating System Engineering (Fall 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
