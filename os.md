@@ -1,1 +1,2 @@
 - [BrokenThorn - Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [The little book about OS development](https://littleosbook.github.io)
