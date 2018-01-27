@@ -13,3 +13,4 @@
 - [https://www.codechef.com](https://www.codechef.com)
 - [https://pgexercises.com](https://pgexercises.com)
 - [http://exercism.io](http://exercism.io)
+- [http://firecode.io/](http://firecode.io/)
