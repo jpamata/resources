@@ -11,3 +11,4 @@
 - [https://www.interviewbit.com](https://www.interviewbit.com)
 - [https://leetcode.com](https://leetcode.com)
 - [https://www.codechef.com](https://www.codechef.com)
+- [https://pgexercises.com](https://pgexercises.com)
