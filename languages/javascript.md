@@ -1,0 +1,2 @@
+- freecodecamp.org
+- https://www.codecademy.com/learn/learn-javascript
