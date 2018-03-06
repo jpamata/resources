@@ -24,3 +24,6 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 
 ## On Startups
 - [How to get your first 100k active users ](https://news.ycombinator.com/item?id=15909395)
+- [Ask HN: We have a great team and capital but can't find a good idea](https://news.ycombinator.com/item?id=15588361)
+- [Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?](https://news.ycombinator.com/item?id=14279870)
+- [Ask HN: I'm a solopreneur and I feel demoralised](https://news.ycombinator.com/item?id=15869467)
