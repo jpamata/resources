@@ -8,10 +8,12 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 ## On Health
 - [How to Sleep](https://news.ycombinator.com/item?id=14435219)
 - [Training Your Brain So That You Don’t Need Reading Glasses (2017)](https://news.ycombinator.com/item?id=16194580)
+- [Ask HN: What are you doing for your mental health?](https://news.ycombinator.com/item?id=16089846)
 
 ## On Being Productive
 - [Ask HN: The “I want to do everything but end up doing nothing” dilemma](https://news.ycombinator.com/item?id=9049208)
 - [Ask HN: Is it 'normal' to struggle so hard with work?](https://news.ycombinator.com/item?id=16411662)
+- [Ask HN: I feel like I've destroyed my attention span. How do I get it back?](https://news.ycombinator.com/item?id=16024052)
 
 ## On Job Hunting
 - [Ask HN: Writing cover letters for tech jobs](https://news.ycombinator.com/item?id=15934135)
@@ -19,3 +21,6 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: What do you look for in an applicant's GitHub?](https://news.ycombinator.com/item?id=16224401)
 - [Ask HN: Why aren't I getting responses to my Who Is Hiring applications?](https://news.ycombinator.com/item?id=16146660)
 - [Ask HN: How Did You Find a Job Abroad?](https://news.ycombinator.com/upvoted?id=jpamata)
+
+## On Startups
+- [How to get your first 100k active users ](https://news.ycombinator.com/item?id=15909395)
