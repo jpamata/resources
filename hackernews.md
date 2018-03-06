@@ -16,6 +16,7 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: I feel like I've destroyed my attention span. How do I get it back?](https://news.ycombinator.com/item?id=16024052)
 
 ## On Job Hunting
+- [I have no side code projects to show](https://news.ycombinator.com/item?id=13198175)
 - [Ask HN: Writing cover letters for tech jobs](https://news.ycombinator.com/item?id=15934135)
 - [Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?](https://news.ycombinator.com/item?id=16126132)
 - [Ask HN: What do you look for in an applicant's GitHub?](https://news.ycombinator.com/item?id=16224401)
@@ -30,3 +31,4 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 
 ## On Soft Skills
 - [Learn to sell](https://news.ycombinator.com/item?id=15879735)
+- [Tricks to make yourself effortlessly charming](https://news.ycombinator.com/item?id=15999036)
