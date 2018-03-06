@@ -59,3 +59,4 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 
 ## On General Tech
 - [Ask HN: What tech were you convinced would take the world by storm but didn't?](https://news.ycombinator.com/item?id=15718653)
+- [There's No Fire Alarm for Artificial General Intelligence](https://news.ycombinator.com/item?id=15470920)
