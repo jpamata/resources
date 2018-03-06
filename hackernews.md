@@ -7,6 +7,7 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 
 ## On Health
 - [How to Sleep](https://news.ycombinator.com/item?id=14435219)
+- [Training Your Brain So That You Don’t Need Reading Glasses (2017)](https://news.ycombinator.com/item?id=16194580)
 
 ## On Being Productive
 - [Ask HN: The “I want to do everything but end up doing nothing” dilemma](https://news.ycombinator.com/item?id=9049208)
