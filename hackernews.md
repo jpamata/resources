@@ -5,6 +5,10 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: What language-agnostic programming books should I read?](https://news.ycombinator.com/item?id=14486657)
 - [Must Read CS Books For Self Self-Taught Programmers](https://news.ycombinator.com/item?id=2414280)
 
+## On Being Productive
+- [Ask HN: The “I want to do everything but end up doing nothing” dilemma](https://news.ycombinator.com/item?id=9049208)
+- [Ask HN: Is it 'normal' to struggle so hard with work?](https://news.ycombinator.com/item?id=16411662)
+
 ## On Job Hunting
 - [Ask HN: Writing cover letters for tech jobs](https://news.ycombinator.com/item?id=15934135)
 - [Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?](https://news.ycombinator.com/item?id=16126132)
