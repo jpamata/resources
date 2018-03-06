@@ -30,8 +30,12 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: What do you regret in life?](https://news.ycombinator.com/item?id=12835898)
 - [Ask HN: When you feel stuck in life](https://news.ycombinator.com/item?id=12143266)
 
+## On Finance and General Survival
+- [Ask HN: My house might burn down in the next 24 hours. Suggestions?](https://news.ycombinator.com/item?id=15446364)
+
 ## On Job Hunting
 - [I have no side code projects to show](https://news.ycombinator.com/item?id=13198175)
+- [Questions to ask in interviews](https://news.ycombinator.com/item?id=15468786)
 - [Ask HN: Writing cover letters for tech jobs](https://news.ycombinator.com/item?id=15934135)
 - [Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?](https://news.ycombinator.com/item?id=16126132)
 - [Ask HN: What do you look for in an applicant's GitHub?](https://news.ycombinator.com/item?id=16224401)
