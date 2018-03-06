@@ -18,6 +18,7 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: How do I switch from being a passive consumer to an active producer?](https://news.ycombinator.com/item?id=14386394)
 - [Ask HN: How do you manage multiple learning projects?](https://news.ycombinator.com/item?id=15629309)
 - [Ask HN: What changes in your life did you make to become more productive?](https://news.ycombinator.com/item?id=15484360)
+- [Ask HN: What was your “why didn't I start doing this sooner” moment?](https://news.ycombinator.com/item?id=15483719)
 
 ## On Burnout, Failure, Depression, Life, and Happiness
 - [The Depression Thing](https://news.ycombinator.com/item?id=15451060)
