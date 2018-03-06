@@ -55,3 +55,6 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [How to make a friend fast](https://news.ycombinator.com/item?id=14731181)
 - [Learn to sell](https://news.ycombinator.com/item?id=15879735)
 - [Tricks to make yourself effortlessly charming](https://news.ycombinator.com/item?id=15999036)
+
+## On General Tech
+- [Ask HN: What tech were you convinced would take the world by storm but didn't?](https://news.ycombinator.com/item?id=15718653)
