@@ -46,6 +46,7 @@ My favourite posts from [hacker news](https://news.ycombinator.com) that have be
 - [Ask HN: What habits make a programmer great?](https://news.ycombinator.com/item?id=14708350)
 - [Ask HN: How do you familiarize yourself with a new codebase?](https://news.ycombinator.com/item?id=9784008)
 - [Ask HN: How to become the first result of a Google search for a name?](https://news.ycombinator.com/item?id=15782327)
+- [The software engineering notebook](https://news.ycombinator.com/item?id=15473702)
 
 ## On Startups
 - [Startup Ideas](https://news.ycombinator.com/item?id=15714318)
