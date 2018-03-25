@@ -1,1 +1,2 @@
 - [https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [https://leetcode.com/problems/minimum-window-substring/discuss/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems)
